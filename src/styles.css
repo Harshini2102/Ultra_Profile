@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+* , html {
+    margin:0;
+}
+
+body{
+  background: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  color: #606060;
+  position: relative;
+}

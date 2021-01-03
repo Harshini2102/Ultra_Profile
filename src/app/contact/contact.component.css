@@ -1,0 +1,56 @@
+.contactus{
+    height:85vh;
+    padding:100px 150px;
+    text-align: center;
+}
+
+.contactus h1{
+    font-size: 60px;
+    font-weight: normal;
+    color:black;
+}
+
+
+.name , .email{
+    margin-top: 100px;
+    height:30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    width:40%;
+    padding-left: 10px;
+}
+
+.subject{
+    margin-top: 20px;
+    height:30px;
+    width:85%;
+    padding-left: 10px;
+}
+
+textarea{
+    margin-top: 20px;
+    height:140px;
+    width:85%;
+    padding:10px 10px;
+}
+
+.btn{
+    margin-top: 20px;
+    background-color: #fff;
+    height:35px;
+    width:60%;
+}
+
+input:hover , textarea:hover{
+    background-color: black;
+    color:#fff;
+}
+
+.contactus p{
+    margin-top: 60px;
+}
+
+.contactus p a{
+    text-decoration: none;
+    color:#337ab7;
+}

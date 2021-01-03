@@ -1,0 +1,41 @@
+.portfolio{
+    background: #f8f8f8;
+    padding-top: 80px;
+    height:100vh;
+}
+
+.portfolio h2{
+    font-weight: normal;
+    color:black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.portfolio-imgs ul{
+    margin-top: 50px;
+    list-style: none;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.portfolio-imgs ul li a{
+    color:#333;
+    text-decoration: none;
+    padding:20px;
+}
+
+.portfolio-imgs ul li{
+    display:inline-block;
+}
+
+.portfolio-imgs ul li a:hover , .portfolio-imgs ul li a.selected , .portfolio-imgs ul li a:focus{
+    
+    background-color: #eb5424;
+    color:#fff;
+}
+
+.portfolio-imgs img{
+    height:25%;
+    width:25%;
+}
+

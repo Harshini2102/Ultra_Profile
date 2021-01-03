@@ -1,0 +1,75 @@
+.resume{
+    height:55vh;
+    padding:100px;
+}
+
+.myprofile h1 , .someskills h1{
+    color:#333;
+    font-size: 60px;
+    font-weight: normal;
+    margin-bottom: 50px;
+}
+
+.label{
+    font-weight: bold;
+    display: inline-block;
+    width: 110px;
+}
+
+.myprofile p , .someskills p{
+    font-size: 16px;
+    line-height: 28px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.myprofile{
+    display: inline-block;
+    margin-right: 220px;
+}
+
+.someskills{
+    display: inline-block;
+}
+
+.container {
+    width: 100%;
+    background-color: #fff;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    border-radius: 20px;
+  }
+
+  .skills {
+    text-align: right;
+    height:4px;
+    color: white;
+  }
+  
+
+  .bootstrap{
+      width:100%;
+      background-color: #eb5424;
+  }
+  
+  .html5{
+    width:90%;
+    background-color: #eb5424;
+}
+
+.seo{
+    width:80%;
+    background-color: #eb5424;
+}
+
+.skillbar p{
+    font-size: small;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.persentage{
+    float: right;
+    padding-right: 50px;
+    color:#ccc;
+    font-size: 10px;
+}

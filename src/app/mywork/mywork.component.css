@@ -1,0 +1,53 @@
+.mywork{
+    height:100vh;
+    padding:120px 100px;
+}
+
+h1{
+    font-weight:normal;
+    color: #303030;
+    font-size: 60px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.mywork1{
+    text-align: center;
+    width:30%;
+    padding:50px 0px;
+    border:1px solid #888888;
+    display:inline-block;
+    margin-right: 30px;
+}
+
+.myworks .fa{
+    font-size: 60px;
+    color:#888888;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.myworks h3{
+    color:#eb5424;
+    margin-bottom: 50px;    
+}
+
+.myworks hr{
+    color:#f2f2f2;
+    width:100px;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 120px;
+}
+
+.myworks p{
+    line-height: 1.5rem;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+    font-size: 14px;
+}
+
+.mywork1:hover{
+    border-color: #eb5424;
+}

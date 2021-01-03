@@ -1,0 +1,77 @@
+.about{
+    background-image: url(../../assets/images/about-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    padding-top: 130px;
+}
+
+h1{
+    color:#333;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+.director{
+    color:#eb5424;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+
+.about p{
+    line-height: 1.5rem;
+}
+
+.about-content{
+    padding-left: 720px;
+}
+
+.social-media{
+    padding-top: 100px;
+}
+
+.social-media .fa{
+    font-size: 30px;
+    padding:20px 25px;
+    background-color: #fff;
+}
+
+.fa{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.social-content{
+    display:inline-block;
+    color:#fff;
+}
+
+.social-content h3{
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.facebook , .twitter , .pinterest{
+    padding:90px 20px;
+     width:30.35%;
+    display:inline-block;
+}
+
+.facebook{
+    background: #3b5998;
+}
+
+.twitter{
+    background: #55acee;
+}
+
+.pinterest{
+    background: #cc2127; 
+}
+
+
+.facebook:hover , .twitter:hover , .pinterest:hover{
+    background: #333;
+    cursor: pointer;
+}
+
